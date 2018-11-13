@@ -12,7 +12,7 @@ Fique tranquilo, provavelmente você já estudou parte deste conteúdo nas disci
 
 Leia com atenção este documento e bons estudos!
 
-**Prof. Me. Domingos Latorre**
+**Prof. Me. Domingos Latorre** 
 Coordenador do IFSP CodeLab
 
 ## Organização do Programa
@@ -32,17 +32,17 @@ Os Módulos foram organizados como Issues do GitHub.
 
 IMAGEM DAS ISSUES
 
-Cada módulo possui um conjunto de Tarefas que podem ser filtradas por meio das Labels: modulo1, modulo2, modulo...
+Cada módulo possui um conjunto de Tarefas que podem ser filtradas por meio das Labels: modulo1, modulo2, modulo3, modulo4, modulo5 e modulo6.
 
 IMAGEM DE UM FILTRO
 
-Uma Tarefa contem um conjunto de atividades com conteúdo como vídeos, artigos, apostilas e outras referências. Você deverá assitir estes vídeos e fazer a leitura dos materias.
+Uma Tarefa contém um conjunto de atividades e conteúdos como vídeos, artigos, apostilas e outras referências. Você deverá assitir estes vídeos e fazer a leitura dos materiais.
 
 IMAGEM DE UMA ISSUE DE TAREFA
 
 ## Dúvidas sobre as Tarefas
 
-Dúvidas sobre uma Tarefa deverão ser postadas nos comentários da Issue da tarefa, criando desta forma um histórico de perguntas e respostas que poderá ajudar outros estudantes.
+Dúvidas sobre uma Tarefa deverão ser postadas nos comentários da Issue da tarefa. Desta forma será criado um histórico de perguntas e respostas que poderá ajudar outros estudantes.
 
 ## Acompanhamento e Progresso Módulo
 
