@@ -23,7 +23,7 @@ Organização dos módulos e tarefas para criação das Issues.
 - Tarefa 2 - Criar conta no GitHub 
 - Tarefa 3 - Entender o que é e como funciona o Slack
 - Tarefa 4 - Registrar-se no workspace do IFSP CodeLab
-- Tarefa 5 - Tarefa 5 - Apresentar-se no canal do Slack #pie-apresentacao
+- Tarefa 5 - Apresentar-se no canal do Slack #pie-apresentacao
 - Tarefa 6 - Registrar seu progresso na issue de acompanhamento do Módulo 1
 
 #### Acompanhamento Módulo 1
