@@ -17,7 +17,7 @@ Organização dos módulos e tarefas para criação das Issues.
 
 **Tempo estimado:** 1 hora.
 
-**Atividades:**
+**Tarefas:**
 
 - Tarefa 1 - Ler Código de Conduta do Programa Inicial de Estudos
 - Tarefa 2 - Criar conta no GitHub 
@@ -118,4 +118,122 @@ O progresso dos estudantes nos módulos do PIE serão acompanhados através de I
 
 1. Acessar a Issue de Acompanhamento do Módulo 1 e registre seu progresso
 
+
+# 2. Linux e Linha de Comando
+
+**Objetivo:** Conhecer o Linux e ser capaz de executar tarefas básicas utilizando comandos diversos no terminal.
+
+**Tempo estimado:** 8 horas.
+
+**Tarefas:**
+
+- Tarefa 1 - Registrar seu progresso na issue de acompanhamento do Módulo 2
+- Tarefa 2 - Entender o que é o Linux, Projeto GNU e Software Livre
+- Tarefa 3 - Compreender a diferença entre distribuição e ambiente gráfico
+- Tarefa 4 - Instalar o VirtualBox
+- Tarefa 5 - Criar máquina virtual do Xubuntu 18.10
+- Tarefa 6 - Entender o que é Linha de Comando, Terminal, Shell
+- Tarefa 7 - Treinar Comandos Importantes
+- Tarefa 8 - Fixar o Conhecimento
+- Tarefa 9 - Gerenciar Pacotes
+
+#### Acompanhamento do Módulo 2
+
+Issue para acompanhamento das tarefas do Módulo 2.
+
+Copie e cole o código abaixo nos comentários. Após a realização de uma tarefa volte nesta issue e marque a tarefas realizada. 
+
+```
+- [] Tarefa 1 - Registrar seu progresso na issue de acompanhamento do Módulo 2
+- [] Tarefa 2 - Entender o que é o Linux, Projeto GNU e Software Livre
+- [] Tarefa 3 - Compreender a diferença entre distribuição e ambiente gráfico
+- [] Tarefa 4 - Instalar o VirtualBox
+- [] Tarefa 5 - Criar máquina virtual do Xubuntu 18.10
+- [] Tarefa 6 - Entender o que é Linha de Comando, Terminal, Shell
+- [] Tarefa 7 - Treinar Comandos Importantes
+- [] Tarefa 8 - Fixar o Conhecimento
+- [] Tarefa 9 - Gerenciar Pacotes
+```
+
+###  Tarefa 1 - Registrar seu progresso na issue de acompanhamento do Módulo 2
+
+O progresso dos estudantes nos módulos do PIE serão acompanhados através de Issues.  
+
+**Atividades**
+
+1. Acessar a Issue de Acompanhamento do Módulo 2 e registre seu progresso
+
+
+###  Tarefa 2 - Entender o que é Software Livre
+
+Habilitar legenda dos vídeos quando necessário.
+
+**Atividades**
+
+1. Assistir: [O que é Software Livre?](https://www.youtube.com/watch?v=sZg9nrUTgJE)
+1. Assistir: [Software livre, sociedade livre | Richard Stallman | TEDxGeneva](https://www.youtube.com/watch?v=Ag1AKIl_2GM)
+1. Ler: [Software livre em uma nova luz](https://www.ibm.com/developerworks/br/library/os-newlight/os-newlight-pdf.pdf)
+
+###  Tarefa 3 - Linux, Kernel, Distribuição e Ambiente Gráfico
+
+**Atividades**
+
+1. Assistir: [O que é S.O.? O que é Kernel? O que é Gnome?](https://www.youtube.com/watch?v=NTD8YkiCUPM)
+1. Ler: [Anatomia do Kernel Linux](https://www.ibm.com/developerworks/br/library/l-linux-kernel/l-linux-kernel-pdf.pdf)
+
+###  Tarefa 4 - Instalar o VirtualBox
+
+
+**Atividades**
+
+1. Assistir e instalar o Virtualbox: [VirtualBox - Testando sistemas operacionais sem formatar!](https://www.youtube.com/watch?v=lvmdgLxbbII)
+
+###  Tarefa 5 - Criar máquina virtual do Xubuntu 18.04
+
+O Xubuntu 18.04 foi escolhido para o PIE pois é uma distro leve que exige poucos recursos computacionais, podendo rodar no Virtualbox em um host com hardware modesto. O tutorial do vídeo a seguir é para a distribuição Ubuntu 18.04, mas pode ser utilizado como guia para instalação do Xubuntu 18.04.
+
+**Atividades**
+
+1. Assistir: [Xubuntu 18.04 LTS - Review (Leve e Estável)](https://www.youtube.com/watch?v=5PVT64Obi2U)
+1. Fazer o download do Xubuntu 18.04: https://xubuntu.org/release/18-04/
+1. Assistir: [Como Instalar Linux Ubuntu 18.04 LTS passo a passo no VirtualBox](https://www.youtube.com/watch?v=zsqJhle7CXE)
+
+
+
+###  Tarefa 6 - Entender o que é Linha de Comando, Terminal, Shell
+
+Acompanhar todos os vídeos e executar os comandos no terminal.
+
+**Atividades**
+
+1. Fazer o minicurso: [Bash e Terminal Linux para Iniciantes](https://www.youtube.com/playlist?list=PLIevgZoV2cAiWXwgF2DV61_zD7bm42jVr)
+
+
+###  Tarefa 7 - Treinar Comandos Importantes
+
+Habilitar legenda dos vídeos quando necessário.
+
+**Atividades**
+
+1. Testar no terminal: [20 comandos mais importantes para iniciantes no Linux - 1 a 10](https://www.youtube.com/watch?v=uZeMQz89pfw)
+1. Testar no terminal: [20 comandos mais importantes para iniciantes no Linux - 11 a 20](https://www.youtube.com/watch?v=1HapBf0cnmU)
+1. Testar no terminal: [Variáveis de ambiente no Linux](https://www.youtube.com/watch?v=i2VKOyf0PmU)
+
+
+###  Tarefa 8 - Fixar o Conhecimento
+
+
+**Atividades**
+
+1. Realizar o mini tutorial http://linuxcommand.org/lc3_learning_the_shell.php. 
+    - Você pode ver a [versão traduzida para português](https://translate.google.com/translate?sl=en&tl=pt&u=http%3A%2F%2Flinuxcommand.org%2Flc3_learning_the_shell.php), caso alguma parte da tradução estiver incoerente, verifique o texto original.
+
+
+###  Tarefa 9 - Gerenciar Pacotes
+
+
+**Atividades**
+
+1. Assistir e acompanhar: [Como usar apt-get ( Debian )](https://www.youtube.com/watch?v=CXKiaarncGQ). No 3:00 do vídeo acessar o arquivo sources.list utilizar o comando: ```sudo nano /etc/apt/sources.list ``` não modifique este arquivo, apenas visualize os repositórios.
+1. Assistir: [Linux Terminal 201: Apt vs Apt-Get - HakTip 151](https://www.youtube.com/watch?v=9jNcjdQxEV8). Habilitar legenda e tradução para português se necessário.
 
