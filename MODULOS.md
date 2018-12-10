@@ -33,12 +33,12 @@ Issue para acompanhamento das tarefas do Módulo 1.
 Copie e cole o código abaixo nos comentários. Marque as Tarefas que você já completou.
 
 ```
-- [] Tarefa 1 - Ler Código de Conduta do Programa Inicial de Estudos
-- [] Tarefa 2 - Criar conta no GitHub 
-- [] Tarefa 3 - Entender o que é e como funciona o Slack
-- [] Tarefa 4 - Registrar-se no Workspace do IFSP CodeLab
-- [] Tarefa 5 - Apresentar-se no canal do Slack #pie-apresentacao
-- [] Tarefa 6 - Registrar seu progresso na issue de acompanhamento do Módulo 1
+- [ ] Tarefa 1 - Ler Código de Conduta do Programa Inicial de Estudos
+- [ ] Tarefa 2 - Criar conta no GitHub 
+- [ ] Tarefa 3 - Entender o que é e como funciona o Slack
+- [ ] Tarefa 4 - Registrar-se no Workspace do IFSP CodeLab
+- [ ] Tarefa 5 - Apresentar-se no canal do Slack #pie-apresentacao
+- [ ] Tarefa 6 - Registrar seu progresso na issue de acompanhamento do Módulo 1
 ```
 
 ## Tarefas
@@ -144,15 +144,15 @@ Issue para acompanhamento das tarefas do Módulo 2.
 Copie e cole o código abaixo nos comentários. Após a realização de uma tarefa volte nesta issue e marque a tarefas realizada. 
 
 ```
-- [] Tarefa 1 - Registrar seu progresso na issue de acompanhamento do Módulo 2
-- [] Tarefa 2 - Entender o que é Software Livre
-- [] Tarefa 3 - Linux, Kernel, Distribuição e Ambiente Gráfico
-- [] Tarefa 4 - Instalar o VirtualBox
-- [] Tarefa 5 - Criar máquina virtual do Xubuntu 18.04
-- [] Tarefa 6 - Entender o que é Linha de Comando, Terminal e Shell
-- [] Tarefa 7 - Treinar Comandos Importantes
-- [] Tarefa 8 - Fixar o Conhecimento
-- [] Tarefa 9 - Gerenciar Pacotes
+- [ ] Tarefa 1 - Registrar seu progresso na issue de acompanhamento do Módulo 2
+- [ ] Tarefa 2 - Entender o que é Software Livre
+- [ ] Tarefa 3 - Linux, Kernel, Distribuição e Ambiente Gráfico
+- [ ] Tarefa 4 - Instalar o VirtualBox
+- [ ] Tarefa 5 - Criar máquina virtual do Xubuntu 18.04
+- [ ] Tarefa 6 - Entender o que é Linha de Comando, Terminal e Shell
+- [ ] Tarefa 7 - Treinar Comandos Importantes
+- [ ] Tarefa 8 - Fixar o Conhecimento
+- [ ] Tarefa 9 - Gerenciar Pacotes
 ```
 
 ###  Tarefa 1 - Registrar seu progresso na issue de acompanhamento do Módulo 2
@@ -257,10 +257,10 @@ Issue para acompanhamento das tarefas do Módulo 3.
 Copie e cole o código abaixo nos comentários. Após a realização de uma tarefa volte nesta issue e marque a tarefas realizada. 
 
 ```
-- [] Tarefa 1 - Registrar seu progresso na issue de acompanhamento do Módulo 3
-- [] Tarefa 2 - Entender o que é o Git e GitHub
-- [] Tarefa 3 - Realizar o curso sobre Git para iniciantes
-- [] Tarefa 4 - Reforçar conceitos sobre Git e GitHub
+- [ ] Tarefa 1 - Registrar seu progresso na issue de acompanhamento do Módulo 3
+- [ ] Tarefa 2 - Entender o que é o Git e GitHub
+- [ ] Tarefa 3 - Realizar o curso sobre Git para iniciantes
+- [ ] Tarefa 4 - Reforçar conceitos sobre Git e GitHub
 
 ```
 
