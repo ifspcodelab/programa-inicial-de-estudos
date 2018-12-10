@@ -128,11 +128,11 @@ O progresso dos estudantes nos módulos do PIE serão acompanhados através de I
 **Tarefas:**
 
 - Tarefa 1 - Registrar seu progresso na issue de acompanhamento do Módulo 2
-- Tarefa 2 - Entender o que é o Linux, Projeto GNU e Software Livre
-- Tarefa 3 - Compreender a diferença entre distribuição e ambiente gráfico
+- Tarefa 2 - Entender o que é Software Livre
+- Tarefa 3 - Linux, Kernel, Distribuição e Ambiente Gráfico
 - Tarefa 4 - Instalar o VirtualBox
-- Tarefa 5 - Criar máquina virtual do Xubuntu 18.10
-- Tarefa 6 - Entender o que é Linha de Comando, Terminal, Shell
+- Tarefa 5 - Criar máquina virtual do Xubuntu 18.04
+- Tarefa 6 - Entender o que é Linha de Comando, Terminal e Shell
 - Tarefa 7 - Treinar Comandos Importantes
 - Tarefa 8 - Fixar o Conhecimento
 - Tarefa 9 - Gerenciar Pacotes
@@ -145,11 +145,11 @@ Copie e cole o código abaixo nos comentários. Após a realização de uma tare
 
 ```
 - [] Tarefa 1 - Registrar seu progresso na issue de acompanhamento do Módulo 2
-- [] Tarefa 2 - Entender o que é o Linux, Projeto GNU e Software Livre
-- [] Tarefa 3 - Compreender a diferença entre distribuição e ambiente gráfico
+- [] Tarefa 2 - Entender o que é Software Livre
+- [] Tarefa 3 - Linux, Kernel, Distribuição e Ambiente Gráfico
 - [] Tarefa 4 - Instalar o VirtualBox
-- [] Tarefa 5 - Criar máquina virtual do Xubuntu 18.10
-- [] Tarefa 6 - Entender o que é Linha de Comando, Terminal, Shell
+- [] Tarefa 5 - Criar máquina virtual do Xubuntu 18.04
+- [] Tarefa 6 - Entender o que é Linha de Comando, Terminal e Shell
 - [] Tarefa 7 - Treinar Comandos Importantes
 - [] Tarefa 8 - Fixar o Conhecimento
 - [] Tarefa 9 - Gerenciar Pacotes
@@ -200,7 +200,7 @@ O Xubuntu 18.04 foi escolhido para o PIE pois é uma distro leve que exige pouco
 
 
 
-###  Tarefa 6 - Entender o que é Linha de Comando, Terminal, Shell
+###  Tarefa 6 - Entender o que é Linha de Comando, Terminal e Shell
 
 Acompanhar todos os vídeos e executar os comandos no terminal.
 
@@ -239,7 +239,7 @@ Habilitar legenda dos vídeos quando necessário.
 
 # 3. Controle de Versão, Git e GitHub
 
-**Objetivo:** Entender como funciona o controle de versão Git e a ferramenta GitHub 
+**Objetivo:** Entender como funciona o controle de versão Git e a ferramenta GitHub. 
 
 **Tempo estimado:** 8 horas.
 
