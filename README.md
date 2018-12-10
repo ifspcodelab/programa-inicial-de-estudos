@@ -56,4 +56,3 @@ Atualize frequentemente as tarefas que você já realizou:
 
 ![acompanhamento2](https://raw.githubusercontent.com/ifspcodelab/programa-inicial-de-estudos/master/img/acompanhamento-02.png)
 
-
