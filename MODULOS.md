@@ -116,7 +116,7 @@ O progresso dos estudantes nos módulos do PIE serão acompanhados através de I
 
 **Atividades**
 
-1. Acessar a Issue de Acompanhamento do Módulo 1 e registre seu progresso
+1. Acesse a Issue de Acompanhamento do Módulo 1 e registre seu progresso
 
 
 # 2. Linux e Linha de Comando
@@ -161,7 +161,7 @@ O progresso dos estudantes nos módulos do PIE serão acompanhados através de I
 
 **Atividades**
 
-1. Acessar a Issue de Acompanhamento do Módulo 2 e registre seu progresso
+1. Acesse a Issue de Acompanhamento do Módulo 2 e registre seu progresso
 
 
 ###  Tarefa 2 - Entender o que é Software Livre
@@ -236,4 +236,64 @@ Habilitar legenda dos vídeos quando necessário.
 
 1. Assistir e acompanhar: [Como usar apt-get ( Debian )](https://www.youtube.com/watch?v=CXKiaarncGQ). No 3:00 do vídeo acessar o arquivo sources.list utilizar o comando: ```sudo nano /etc/apt/sources.list ``` não modifique este arquivo, apenas visualize os repositórios.
 1. Assistir: [Linux Terminal 201: Apt vs Apt-Get - HakTip 151](https://www.youtube.com/watch?v=9jNcjdQxEV8). Habilitar legenda e tradução para português se necessário.
+
+# 3. Controle de Versão, Git e GitHub
+
+**Objetivo:** Entender como funciona o controle de versão Git e a ferramenta GitHub 
+
+**Tempo estimado:** 8 horas.
+
+**Tarefas:**
+
+- Tarefa 1 - Registrar seu progresso na issue de acompanhamento do Módulo 3
+- Tarefa 2 - Entender o que é o Git e GitHub
+- Tarefa 3 - Realizar o curso sobre Git para iniciantes
+- Tarefa 4 - Reforçar conceitos sobre Git e GitHub
+
+#### Acompanhamento do Módulo 3
+
+Issue para acompanhamento das tarefas do Módulo 3.
+
+Copie e cole o código abaixo nos comentários. Após a realização de uma tarefa volte nesta issue e marque a tarefas realizada. 
+
+```
+- [] Tarefa 1 - Registrar seu progresso na issue de acompanhamento do Módulo 3
+- [] Tarefa 2 - Entender o que é o Git e GitHub
+- [] Tarefa 3 - Realizar o curso sobre Git para iniciantes
+- [] Tarefa 4 - Reforçar conceitos sobre Git e GitHub
+
+```
+
+###  Tarefa 1 - Registrar seu progresso na issue de acompanhamento do Módulo 3
+
+O progresso dos estudantes nos módulos do PIE serão acompanhados através de Issues.  
+
+**Atividades**
+
+1. Acesse a Issue de Acompanhamento do Módulo 3 e registre seu progresso
+
+
+###  Tarefa 2 - Entender o que é o Git e GitHub
+
+**Atividades**
+
+1. Assistir: [O que é o GitHub? - Você deveria aprender Git ontem](https://www.youtube.com/watch?v=ZDo_f3ZibFA)
+1. Ler capítulo 1 do livro Pro Git: https://git-scm.com/book/pt-br/v2
+
+###  Tarefa 3 - Realizar o curso sobre Git para iniciantes
+
+**Atividades**
+
+1. Fazer o curso: [Udemy - Git para iniciantes (1 hora, Gratuito)](https://www.udemy.com/git-para-iniciantes/)
+
+
+###  Tarefa 4 - Reforçar conceitos sobre Git e GitHub
+
+Para reforçar o aprendizado recomendamos realizar todos os cursos listados abaixo:
+
+**Atividades**
+
+1. Fazer o curso: [Udemy - Git e Github para iniciantes (2 horas, Gratuito)](https://www.udemy.com/git-e-github-para-iniciantes/)
+1. Fazer o curso: [Curso básico de Git (2 horas)](https://www.youtube.com/playlist?list=PLInBAd9OZCzzHBJjLFZzRl6DgUmOeG3H0)
+
 
