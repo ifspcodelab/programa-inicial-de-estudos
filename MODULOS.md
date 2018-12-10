@@ -297,3 +297,110 @@ Para reforçar o aprendizado recomendamos realizar todos os cursos listados abai
 1. Fazer o curso: [Curso básico de Git (2 horas)](https://www.youtube.com/playlist?list=PLInBAd9OZCzzHBJjLFZzRl6DgUmOeG3H0)
 
 
+# 4. Desenvolvimento Web Front-end (HTML e CSS)
+
+**Objetivo:** Conhecer as tecnologias HTML e CSS para desenvolvimento de websites.
+
+**Tempo estimado:** 12 horas.
+
+**Tarefas:**
+
+- Tarefa 1 - Registrar seu progresso na issue de acompanhamento do Módulo 4
+- Tarefa 2 - Entender o que é o Front-end
+- Tarefa 3 - Preparar o Ambiente de Desenvolvimento com Visual Studio Code e Extensão Live Server
+- Tarefa 4 - Fazer o minicurso básico sobre HTML5
+- Tarefa 5 - Fazer o minicurso básico sobre CSS3
+- Tarefa 6 - Construir um Website Responsivo com Float
+- Tarefa 7 - Construir um Website Responsivo com Flexbox
+- Tarefa 8 - Conhecer as Funcionalidades da Ferramenta Chrome DevTools
+
+
+#### Acompanhamento do Módulo 4
+
+Issue para acompanhamento das tarefas do Módulo 4.
+
+Copie e cole o código abaixo nos comentários. Após a realização de uma tarefa volte nesta issue e marque a tarefas realizada. 
+
+```
+- [ ] Tarefa 1 - Registrar seu progresso na issue de acompanhamento do Módulo 4
+- [ ] Tarefa 2 - Entender o que é o Front-end
+- [ ] Tarefa 3 - Preparar o Ambiente de Desenvolvimento com Visual Studio Code e Extensão Live Server
+- [ ] Tarefa 4 - Fazer o minicurso básico sobre HTML5
+- [ ] Tarefa 5 - Fazer o minicurso básico sobre CSS3
+- [ ] Tarefa 6 - Construir um Website Responsivo com Float
+- [ ] Tarefa 7 - Construir um Website Responsivo com Flexbox
+- [ ] Tarefa 8 - Conhecer as Funcionalidades da Ferramenta Chrome DevTools
+```
+
+###  Tarefa 1 - Registrar seu progresso na issue de acompanhamento do Módulo 4
+
+O progresso dos estudantes nos módulos do PIE serão acompanhados através de Issues.  
+
+**Atividades**
+
+1. Acesse a Issue de Acompanhamento do Módulo 4 e registre seu progresso
+
+
+###  Tarefa 2 - Entender o que é o Desenvolvimento Web Front-end
+
+**Atividades**
+
+Habilitar legenda dos vídeos quando necessário.
+
+1. Assistir: [Começando como desenvolvedor web - Montanha](https://www.youtube.com/watch?v=UTZVQL_AQZU)
+1. Assistir: [FRONT-END x BACK-END: O que é, Pra que serve, má interpretações...](https://www.youtube.com/watch?v=uBNRCRxB5GA)
+1. Assistir: [O que estudar para conseguir um emprego com front-end](https://www.youtube.com/watch?v=HxVGCjTtzOQ)
+1. Assistir: [What You Need to Know to be a Front End Developer in 2018](https://www.youtube.com/watch?v=Xd7huBu39qk)
+
+###  Tarefa 3 - Preparar o Ambiente de Desenvolvimento com Visual Studio Code e Extensão Live Server
+
+Habilitar legenda dos vídeos quando necessário.
+
+**Atividades**
+1. Instalar Visual Studio Code: https://code.visualstudio.com/Download
+1. Assistir: [Visual Studio Code: Temas, editor e terminal integrado - Dicas rápidas](https://www.youtube.com/watch?v=iutOlM1mTQQ)
+1. Assistir: [Live Server Extension in Visual Studio Code](https://www.youtube.com/watch?v=WzE0yqwbdgU)
+
+###  Tarefa 4 - Fazer o minicurso básico sobre HTML5
+
+No curso o autor utiliza o editor de texto Notepad++, você deverá seguir o curso utilizando o editor Visual Studio Code e extensão Live Server instalados na Tarefa 3 deste módulo.
+
+**Atividades**
+
+1. Curso de HTML5: [Curso de HTML5](https://www.youtube.com/playlist?list=PLwXQLZ3FdTVGKl3iPEyEWpFoYkMUxWW5O)
+1. Material de Apoio:  [Apostila HTML5 Oficial W3C](http://www.w3c.br/pub/Cursos/CursoHTML5/html5-web.pdf)
+1. Material de Apoio: [Site W3Schools - HTML](https://www.w3schools.com/html/default.asp)
+1. Material de Apoio: [Mozilla Developer Network](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+
+###  Tarefa 5 - Fazer o minicurso básico sobre CSS3
+
+No curso o autor utiliza o editor de texto Notepad++, você deverá seguir o curso utilizando o editor Visual Studio Code e extensão Live Server instalados na Tarefa 3 deste módulo.
+
+**Atividades**
+
+1. Fazer o curso: [Curso de CSS3](https://www.youtube.com/playlist?list=PLwXQLZ3FdTVGf7GUtiOFLc_9AXO25iIzG)
+1. Material de Apoio: [Site W3Schools - CSS](https://www.w3schools.com/css/default.asp)
+1. Material de Apoio: [Apostila CSS3 Oficial W3C](http://www.w3c.br/pub/Cursos/CursoCSS3/css-web.pdf)
+
+###  Tarefa 6 - Construir um Website Responsivo com Float
+
+**Atividades**
+
+1. Assistir: [Design Responsivo - O que é Web Design Responsivo? Aula 01](https://www.youtube.com/watch?v=3rrX9w0HhZc)
+1. Assistir: [Design Responsivo - Como funciona o Web Design Responsivo? Aula 02](https://www.youtube.com/watch?v=cf_u0D2_khg)
+1. Fazer o curso: [Design Responsivo](https://www.youtube.com/playlist?list=PLwXQLZ3FdTVFi6oHo_K4IYDcwCU5-f1x5)
+1. Assistir: [Build a Responsive, Mobile First Website - HTML5 & CSS](https://www.youtube.com/watch?v=XsEnj-1hG2o)
+
+
+###  Tarefa 7 - Construir um Website Responsivo com Flexbox
+
+**Atividades**
+
+1. Fazer o curso: [Curso de CSS Flexbox](https://www.youtube.com/playlist?list=PLwXQLZ3FdTVGjLmjwfRc0Q9TA5U-PCWp4)
+1. Material de Apoio: [Site W3Schools - Flexbox](https://www.w3schools.com/css/css3_flexbox.asp)
+
+###  Tarefa 8 - Conhecer as Funcionalidades da Ferramenta Chrome DevTools
+
+**Atividades**
+
+1. Fazer o curso: [Segredos do Chrome DevTools](https://www.youtube.com/playlist?list=PLiGzvgwA5Gmgnq5vPjJxW52hDiX3ndL53)
