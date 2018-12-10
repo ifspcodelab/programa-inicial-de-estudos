@@ -48,4 +48,12 @@ Dúvidas sobre uma Tarefa deverão ser postadas nos comentários da Issue da tar
 
 ## Acompanhamento e Progresso Módulo
 
-A primeira atividade de cada Módulo é o registro de progresso que deverá ser atualizado pelo estudante nas Issues de Acompanhamento dos Módulos. 
+Você deve registrar seu progresso na issue de acompanhamento dos módulos. Copiando o código de lista de tarefas:
+
+![acompanhamento](https://raw.githubusercontent.com/ifspcodelab/programa-inicial-de-estudos/master/img/acompanhamento-01.png)
+
+Atualize frequentemente as tarefas que você já realizou:
+
+![acompanhamento2](https://raw.githubusercontent.com/ifspcodelab/programa-inicial-de-estudos/master/img/acompanhamento-02.png)
+
+
