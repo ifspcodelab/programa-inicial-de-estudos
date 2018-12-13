@@ -36,7 +36,7 @@ Cada módulo possui um conjunto de Tarefas que podem ser filtradas por meio das 
 
 ![filtros](https://raw.githubusercontent.com/ifspcodelab/programa-inicial-de-estudos/master/img/issues-02.png)
 
-Uma Tarefa contém um conjunto de atividades e conteúdos como vídeos, artigos, apostilas e outras referências. Você deverá assitir estes vídeos e fazer a leitura dos materiais.
+Uma Tarefa contém um conjunto de atividades e conteúdos como vídeos, artigos, apostilas e outras referências. Você deverá assistir estes vídeos e fazer a leitura dos materiais.
 
 ![filtros](https://raw.githubusercontent.com/ifspcodelab/programa-inicial-de-estudos/master/img/tarefa-01.png)
 
