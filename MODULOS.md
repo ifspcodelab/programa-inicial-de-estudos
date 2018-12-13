@@ -354,12 +354,13 @@ Habilitar legenda dos vídeos quando necessário.
 
 ###  Tarefa 3 - Preparar o Ambiente de Desenvolvimento com Visual Studio Code e Extensão Live Server
 
-Habilitar legenda dos vídeos quando necessário.
+Habilitar legenda e/ou aumentar velocidade de reprodução do vídeo quando necessário.
 
 **Atividades**
 1. Instalar Visual Studio Code: https://code.visualstudio.com/Download
 1. Assistir: [Visual Studio Code: Temas, editor e terminal integrado - Dicas rápidas](https://www.youtube.com/watch?v=iutOlM1mTQQ)
-1. Assistir: [Live Server Extension in Visual Studio Code](https://www.youtube.com/watch?v=WzE0yqwbdgU)
+1. Assistir e instalar: [Live Server Extension in Visual Studio Code](https://www.youtube.com/watch?v=WzE0yqwbdgU)
+1. Assistir: [Mostramos nossas Extensões no VS Code](https://www.youtube.com/watch?v=U0jrNLX2wLk)
 
 ###  Tarefa 4 - Fazer o minicurso básico sobre HTML5
 
@@ -370,7 +371,7 @@ No curso o autor utiliza o editor de texto Notepad++, você deverá seguir o cur
 1. Curso de HTML5: [Curso de HTML5](https://www.youtube.com/playlist?list=PLwXQLZ3FdTVGKl3iPEyEWpFoYkMUxWW5O)
 1. Material de Apoio:  [Apostila HTML5 Oficial W3C](http://www.w3c.br/pub/Cursos/CursoHTML5/html5-web.pdf)
 1. Material de Apoio: [Site W3Schools - HTML](https://www.w3schools.com/html/default.asp)
-1. Material de Apoio: [Mozilla Developer Network](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+1. Material de Apoio: [Mozilla Developer Network - HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 
 ###  Tarefa 5 - Fazer o minicurso básico sobre CSS3
 
@@ -382,25 +383,31 @@ No curso o autor utiliza o editor de texto Notepad++, você deverá seguir o cur
 1. Material de Apoio: [Site W3Schools - CSS](https://www.w3schools.com/css/default.asp)
 1. Material de Apoio: [Apostila CSS3 Oficial W3C](http://www.w3c.br/pub/Cursos/CursoCSS3/css-web.pdf)
 
-###  Tarefa 6 - Construir um Website Responsivo com Float
+
+###  Tarefa 6 - Conhecer as Funcionalidades da Ferramenta Chrome DevTools
+
+**Atividades**
+
+1. Fazer o curso: [Segredos do Chrome DevTools](https://www.youtube.com/playlist?list=PLiGzvgwA5Gmgnq5vPjJxW52hDiX3ndL53)
+
+
+###  Tarefa 7 - Construir um Website Responsivo com Float
+
+Aumentar velocidade de reprodução do vídeo quando necessário.
 
 **Atividades**
 
 1. Assistir: [Design Responsivo - O que é Web Design Responsivo? Aula 01](https://www.youtube.com/watch?v=3rrX9w0HhZc)
 1. Assistir: [Design Responsivo - Como funciona o Web Design Responsivo? Aula 02](https://www.youtube.com/watch?v=cf_u0D2_khg)
-1. Fazer o curso: [Design Responsivo](https://www.youtube.com/playlist?list=PLwXQLZ3FdTVFi6oHo_K4IYDcwCU5-f1x5)
 1. Assistir: [Build a Responsive, Mobile First Website - HTML5 & CSS](https://www.youtube.com/watch?v=XsEnj-1hG2o)
+1. Fazer o curso: [Design Responsivo](https://www.youtube.com/playlist?list=PLwXQLZ3FdTVFi6oHo_K4IYDcwCU5-f1x5)
 
 
-###  Tarefa 7 - Construir um Website Responsivo com Flexbox
+
+###  Tarefa 8 - Construir um Website Responsivo com Flexbox
 
 **Atividades**
-
+1. Assistir: [Aprenda a trabalhar com FlexBox • HTML5/CSS3](https://www.youtube.com/watch?v=dbVQqcV9iEc)
+1. Testar a ferramenta: [Flexbox Playground](https://demos.scotch.io/visual-guide-to-css3-flexbox-flexbox-playground/demos/)
 1. Fazer o curso: [Curso de CSS Flexbox](https://www.youtube.com/playlist?list=PLwXQLZ3FdTVGjLmjwfRc0Q9TA5U-PCWp4)
 1. Material de Apoio: [Site W3Schools - Flexbox](https://www.w3schools.com/css/css3_flexbox.asp)
-
-###  Tarefa 8 - Conhecer as Funcionalidades da Ferramenta Chrome DevTools
-
-**Atividades**
-
-1. Fazer o curso: [Segredos do Chrome DevTools](https://www.youtube.com/playlist?list=PLiGzvgwA5Gmgnq5vPjJxW52hDiX3ndL53)
