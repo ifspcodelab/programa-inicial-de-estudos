@@ -306,13 +306,13 @@ Para reforçar o aprendizado recomendamos realizar todos os cursos listados abai
 **Tarefas:**
 
 - Tarefa 1 - Registrar seu progresso na issue de acompanhamento do Módulo 4
-- Tarefa 2 - Entender o que é o Front-end
+- Tarefa 2 - Entender o que é o Desenvolvimento Web Front-end
 - Tarefa 3 - Preparar o Ambiente de Desenvolvimento com Visual Studio Code e Extensão Live Server
 - Tarefa 4 - Fazer o minicurso básico sobre HTML5
 - Tarefa 5 - Fazer o minicurso básico sobre CSS3
-- Tarefa 6 - Construir um Website Responsivo com Float
-- Tarefa 7 - Construir um Website Responsivo com Flexbox
-- Tarefa 8 - Conhecer as Funcionalidades da Ferramenta Chrome DevTools
+- Tarefa 6 - Conhecer as Funcionalidades da Ferramenta Chrome DevTools
+- Tarefa 7 - Construir um Website Responsivo com Float
+- Tarefa 8 - Construir um Website Responsivo com Flexbox
 
 
 #### Acompanhamento do Módulo 4
@@ -323,13 +323,14 @@ Copie e cole o código abaixo nos comentários. Após a realização de uma tare
 
 ```
 - [ ] Tarefa 1 - Registrar seu progresso na issue de acompanhamento do Módulo 4
-- [ ] Tarefa 2 - Entender o que é o Front-end
+- [ ] Tarefa 2 - Entender o que é o Desenvolvimento Web Front-end
 - [ ] Tarefa 3 - Preparar o Ambiente de Desenvolvimento com Visual Studio Code e Extensão Live Server
 - [ ] Tarefa 4 - Fazer o minicurso básico sobre HTML5
 - [ ] Tarefa 5 - Fazer o minicurso básico sobre CSS3
-- [ ] Tarefa 6 - Construir um Website Responsivo com Float
-- [ ] Tarefa 7 - Construir um Website Responsivo com Flexbox
-- [ ] Tarefa 8 - Conhecer as Funcionalidades da Ferramenta Chrome DevTools
+- [ ] Tarefa 6 - Conhecer as Funcionalidades da Ferramenta Chrome DevTools
+- [ ] Tarefa 7 - Construir um Website Responsivo com Float
+- [ ] Tarefa 8 - Construir um Website Responsivo com Flexbox
+
 ```
 
 ###  Tarefa 1 - Registrar seu progresso na issue de acompanhamento do Módulo 4
