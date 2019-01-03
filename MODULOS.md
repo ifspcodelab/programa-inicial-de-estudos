@@ -141,7 +141,7 @@ O progresso dos estudantes nos módulos do PIE serão acompanhados através de I
 
 Issue para acompanhamento das tarefas do Módulo 2.
 
-Copie e cole o código abaixo nos comentários. Após a realização de uma tarefa volte nesta issue e marque a tarefas realizada. 
+Copie e cole o código abaixo nos comentários. Após a realização de uma tarefa volte nesta issue e marque as tarefas realizadas. 
 
 ```
 - [ ] Tarefa 1 - Registrar seu progresso na issue de acompanhamento do Módulo 2
@@ -254,7 +254,7 @@ Habilitar legenda dos vídeos quando necessário.
 
 Issue para acompanhamento das tarefas do Módulo 3.
 
-Copie e cole o código abaixo nos comentários. Após a realização de uma tarefa volte nesta issue e marque a tarefas realizada. 
+Copie e cole o código abaixo nos comentários. Após a realização de uma tarefa volte nesta issue e marque as tarefas realizadas. 
 
 ```
 - [ ] Tarefa 1 - Registrar seu progresso na issue de acompanhamento do Módulo 3
@@ -319,7 +319,7 @@ Para reforçar o aprendizado recomendamos realizar todos os cursos listados abai
 
 Issue para acompanhamento das tarefas do Módulo 4.
 
-Copie e cole o código abaixo nos comentários. Após a realização de uma tarefa volte nesta issue e marque a tarefas realizada. 
+Copie e cole o código abaixo nos comentários. Após a realização de uma tarefa volte nesta issue e marque as tarefas realizadas. 
 
 ```
 - [ ] Tarefa 1 - Registrar seu progresso na issue de acompanhamento do Módulo 4
@@ -432,7 +432,7 @@ Aumentar velocidade de reprodução do vídeo quando necessário.
 
 Issue para acompanhamento das tarefas do Módulo 5.
 
-Copie e cole o código abaixo nos comentários. Após a realização de uma tarefa volte nesta issue e marque a tarefas realizada. 
+Copie e cole o código abaixo nos comentários. Após a realização de uma tarefa volte nesta issue e marque as tarefas realizadas. 
 
 ```
 - [ ] Tarefa 1 - Registrar seu progresso na issue de acompanhamento do Módulo 5
