@@ -412,3 +412,77 @@ Aumentar velocidade de reprodução do vídeo quando necessário.
 1. Testar a ferramenta: [Flexbox Playground](https://demos.scotch.io/visual-guide-to-css3-flexbox-flexbox-playground/demos/)
 1. Fazer o curso: [Curso de CSS Flexbox](https://www.youtube.com/playlist?list=PLwXQLZ3FdTVGjLmjwfRc0Q9TA5U-PCWp4)
 1. Material de Apoio: [Site W3Schools - Flexbox](https://www.w3schools.com/css/css3_flexbox.asp)
+
+
+# 5. Desenvolvimento Web Front-end (Javascript)
+
+**Objetivo:** Conhecer a linguagem de programação Javascript.
+
+**Tempo estimado:** 12 horas.
+
+**Tarefas:**
+
+- Tarefa 1 - Registrar seu progresso na issue de acompanhamento do Módulo 5
+- Tarefa 2 - Fazer o minicurso sobre Javascript
+- Tarefa 3 - Entender como manipular o DOM com Javascript
+- Tarefa 4 - Conhecer o Javascript ES6, ES7 e ES8
+- Tarefa 5 - Implementar projetos utilizando Javascript
+
+#### Acompanhamento do Módulo 5
+
+Issue para acompanhamento das tarefas do Módulo 5.
+
+Copie e cole o código abaixo nos comentários. Após a realização de uma tarefa volte nesta issue e marque a tarefas realizada. 
+
+```
+- [ ] Tarefa 1 - Registrar seu progresso na issue de acompanhamento do Módulo 5
+- [ ] Tarefa 2 - Fazer o minicurso sobre Javascript
+- [ ] Tarefa 3 - Entender como manipular o DOM com Javascript
+- [ ] Tarefa 4 - Conhecer o Javascript ES6, ES7 e ES8
+- [ ] Tarefa 5 - Implementar projetos utilizando Javascript
+```
+
+###  Tarefa 1 - Registrar seu progresso na issue de acompanhamento do Módulo 5
+
+O progresso dos estudantes nos módulos do PIE serão acompanhados através de Issues.  
+
+**Atividades**
+
+1. Acesse a Issue de Acompanhamento do Módulo 5 e registre seu progresso
+
+
+###  Tarefa 2 - Fazer o minicurso sobre Javascript
+
+**Atividades**
+
+Habilitar legenda dos vídeos quando necessário.
+
+1. Ler [Mozilla Developer Network - JavaScript básico](https://developer.mozilla.org/pt-BR/docs/Aprender/Getting_started_with_the_web/JavaScript_basico)
+1. Assistir: [Learn JavaScript - Full Course for Beginners](https://www.youtube.com/watch?v=PkZNo7MFNFg)
+
+###  Tarefa 3 - Entender como manipular o DOM com Javascript
+
+**Atividades**
+
+Habilitar legenda dos vídeos quando necessário.
+
+1. Assistir: [JavaScript DOM Crash Course](https://www.youtube.com/playlist?list=PLillGF-RfqbYE6Ik_EuXA2iZFcE082B3s)
+1. Assistir: [JavaScript and the HTML DOM - Tutorial Playlist](https://www.youtube.com/playlist?list=PLWKjhJtqVAbllLK6r2dnGjUVWB_cFNcuO)
+
+###  Tarefa 4 - Conhecer o Javascript ES6, ES7 e ES8
+
+**Atividades**
+
+Habilitar legenda dos vídeos quando necessário.
+
+1. Assistir: [JavaScript ES6, ES7, ES8: Learn to Code on the Bleeding Edge (Full Course)](https://www.youtube.com/watch?v=nZ1DMMsyVyI&t=1119s)
+
+###  Tarefa 5 - Implementar projetos utilizando Javascript
+
+**Atividades**
+
+- Habilitar legenda dos vídeos quando necessário.
+- Fazer download dos arquivos utilizados na descrição do vídeo
+
+1. Assistir: [🐺 Scroll Suave para Link Interno - JavaScript Puro](https://www.youtube.com/watch?v=tzbpAqb2Wjc)
+1. Assistir: [Modal "pop-up" com JavaScript e CSS](https://www.youtube.com/watch?v=fu-enUG2VEE)
